@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><XMI xmlns:UML="href://org.omg/UML/1.3" xmi.version="1.1">
+    <XMI.header>
+        <XMI.documentation>
+            <XMI.exporter>PlantUML</XMI.exporter>
+            <XMI.exporterVersion>1.2024.7</XMI.exporterVersion>
+            <XMI.creator>puml2xml</XMI.creator>
+            <XMI.creatorVersion>1.2.0</XMI.creatorVersion>
+        </XMI.documentation>
+        <XMI.metamodel xmi.name="UML" xmi.version="1.4"/>
+    </XMI.header>
+    <XMI.content>
+        <UML:Model name="PlantUML" xmi.id="model1">
+            <UML:Namespace.ownedElement>
+                <UML:Class name="Principal" xmi.id="cl0001">
+                    <UML:Classifier.feature>
+                        <UML:Operation name="main(String[] args)" visibility="public" xmi.id="att0"/>
+                    </UML:Classifier.feature>
+                </UML:Class>
+                <UML:Class name="Matematicas" xmi.id="cl0002">
+                    <UML:Classifier.feature>
+                        <UML:Operation name="generarNumeroPiLambda(long pasos): double" visibility="public" xmi.id="att1"/>
+                    </UML:Classifier.feature>
+                </UML:Class>
+            </UML:Namespace.ownedElement>
+        </UML:Model>
+    </XMI.content>
+</XMI>

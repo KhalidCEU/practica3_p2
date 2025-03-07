@@ -5,8 +5,7 @@ public class Matematicas {
     /**
      * Genera una aproximacion del número PI usando el metodo Monte-Carlo
      *
-     * @param pasos el numero de puntos que generamos. Define el numero de
-     *  putnos que se generará en el stream.
+     * @param pasos Define el numero de puntos que se generará en el stream.
      *
      * @return La aproximacion del numero PI obtenida
      */

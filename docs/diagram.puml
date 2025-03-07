@@ -1,0 +1,13 @@
+@startuml
+
+class Principal {
+    +main(String[] args)
+}
+
+class Matematicas {
+    +generarNumeroPiLambda(long pasos): double
+}
+
+Principal ..> Matematicas : uses
+
+@enduml
