@@ -60,5 +60,5 @@ Para medir el **tiempo de ejecución**, se puede usar el comando ``time`` de est
 <br>
 
 <p align="center">
-  <img src="http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/KhalidCEU/practica2_p2/refs/heads/main/docs/diagram.puml" alt="Class Diagram" width=30%>
+  <img src="http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/KhalidCEU/practica3_p2/refs/heads/main/docs/diagram.puml" alt="Class Diagram" width=30%>
 </p>
